@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="title_activity_sign_in">SignIn</string>
+    <string name="title_activity_user_list">UserList</string>
+</resources>
